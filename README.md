@@ -1,0 +1,3 @@
+- Hey, i'm Jim! 
+- I'm learning HTML and i am a (bad) game dev
+- If you'd want to contact me, theres no way rn. Sorry!
